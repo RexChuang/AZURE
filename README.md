@@ -1,2 +1,2 @@
-# AZURE
-microsoft_0307
+# Hadoop setting
+
